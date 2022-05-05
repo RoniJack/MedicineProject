@@ -1,0 +1,69 @@
+-----------------------Personal Information------------------------
+
+Full Name: רוני ויטולי
+Age: 27.0
+ID: 315369967
+Gender: זכר
+Group: אשכנז
+
+-----------------Indices-----------------
+
+Creatinine:[Status: LOW, Value: 0.006]
+Urea:[Status: NORMAL, Value: 20]
+HDL:[Status: LOW, Value: 20]
+NEUT:[Status: NORMAL, Value: 51]
+RBC:[Status: LOW, Value: 0.8]
+HCT:[Status: NORMAL, Value: 52]
+WBC:[Status: NORMAL, Value: 5200]
+Hb:[Status: LOW, Value: 10.0]
+Iron:[Status: NORMAL, Value: 150]
+Lymph:[Status: HIGHT, Value: 53]
+AP:[Status: LOW, Value: 20]
+ 
+
+-----------------Diagnosis-----------------
+Disease: תת תזונה
+Treatment: הפנייה לרופא המשפחה לצורך בדיקת התאמה בין התרופות
+
+Disease: אנמיה
+Treatment: שני כדורי 10 מ'ג של B12 ביום למשך חודש.
+
+Disease: דימום
+Treatment: להתפנות בדחיפות לבית החולים
+
+Disease: סרטן
+Treatment: אנטרקטיניב
+
+ 
+
+-----------------חששות-----------------
+Disease: מחלת לב
+Treatment: לתאם פגישה עם תזונאי
+
+Disease: מחלות שריר
+Treatment: שני כדורי 5 מ"ג של כורכום c3 של אלטמן ביום למשך חודש
+
+Disease: מעשנים
+Treatment: להפסיק לעשן
+
+Disease: זיהום
+Treatment: אנטיביוטיקה ייעודית
+
+Disease: סוכרת מבוגרים
+Treatment: התאמת אינסולין למטופל
+
+Disease: שומנים בדם
+Treatment: לתאם פגישה עם תזונאי, כדור 5 מ'ג של סימוביל ביום למשך שבוע.
+
+Disease: הפרעה המטולוגית
+Treatment:  זריקה של הורמון לעידוד ייצור תאי הדם האדומים
+
+Disease: הרעלת ברזל
+Treatment: להתפנות לבית החולים
+
+Disease: חוסר בוויטמינים
+Treatment: הפנייה לבדיקת דם לזיהוי הוויטמינים החסרים
+
+
+-----------------------------------------------------------------------
+
